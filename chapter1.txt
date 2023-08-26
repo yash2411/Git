@@ -10,3 +10,6 @@ C was originally developed by Dennis Ritchie between 1969 and 1973 at Bell Labs 
 
 this is changes from coderyash
 hello this changes from yashpandey
+
+
+this changes from coderyash
